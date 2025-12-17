@@ -2,3 +2,6 @@ Simply follow the notebook cells. You should run every single file when you firs
 
 This repo uses code from this project: https://github.com/jmand626/PyTorchMLEngine-Custom-Dataset-Project
 Understanding it is crucial.
+
+
+This project is designed to work with the FGVCAircraft dataset primarily, at least when it comes to the data processing code.
